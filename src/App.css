@@ -1,0 +1,13 @@
+/* src/components/Heading.css */
+
+.heading-container {
+  @apply py-10 text-center bg-blue-100;
+}
+
+.heading-title {
+  @apply text-4xl font-bold text-blue-600;
+}
+
+.heading-subtitle {
+  @apply mt-2 text-xl text-blue-400;
+}

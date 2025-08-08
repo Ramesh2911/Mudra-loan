@@ -1,0 +1,28 @@
+.mudra-section {
+  background: #f3a93c; /* orange-yellow background like on the site */
+  padding: 40px 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.mudra-banner {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  background: url('https://mudraloanindia.org.in/assets/img/round-bg.png') no-repeat center;
+  background-size: cover;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.modi-img img {
+  width: 300px;
+  height: auto;
+  margin-right: 20px;
+}
+
+.photo-collage img {
+  width: 700px;
+  height: auto;
+  border-radius: 10px;
+}
